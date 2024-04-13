@@ -1,0 +1,1142 @@
+[
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "259₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Oleato Golden Foam™ Iced Shaken Espresso with Toffeenut",
+        "Calories": "360 calories",
+        "Toppings": "Oleato Golden Foam™",
+        "img": "https://img.freepik.com/premium-photo/delicious-caramel-frappuccino-with-caramel-sauce-cream-top_322067-217.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "179₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Oleato™ Caffé Latte with Oatmilk",
+        "Calories": "360 calories",
+        "Toppings": "Press of Partanna® Olive Oil",
+        "img": "https://img.freepik.com/free-photo/caramel-latte-table_140725-4503.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "299₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Iced Chai Tea Latte with Oleato Golden Foam™",
+        "Calories": "510 calories",
+        "Toppings": "Oleato Golden Foam™",
+        "img": "https://img.freepik.com/free-photo/iced-coffee-glass_74190-634.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "199₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Iced Matcha Tea Latte with Oleato Golden Foam™",
+        "Calories": "410 calories",
+        "Toppings": "Oleato Golden Foam™",
+        "img": "https://img.freepik.com/premium-photo/matcha-green-tea-with-ice-cubes_219193-7047.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "199₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Paradise Drink Beverage with Oleato Golden Foam™",
+        "Calories": "390 calories",
+        "Toppings": "Oleato Golden Foam™",
+        "img": "https://img.freepik.com/premium-photo/iced-coffee-with-milk-iced-coffee-latte-woman-holding-glass-cup-iced-coffee_550617-82491.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Oleato",
+        "XPrice": "189₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Dragon Drink Beverage with Oleato Golden Foam™",
+        "Calories": "380 calories",
+        "Toppings": "Oleato Golden Foam™",
+        "img": "https://img.freepik.com/free-photo/chocolate-milkshake-with-cookies-top_140725-6092.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Americanos",
+        "XPrice": "229₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Caffè Americano",
+        "Calories": "15 calories",
+        "img": "https://img.freepik.com/free-photo/cup-hot-cappuccino-with-froth_140725-9609.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "189₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Featured Blonde Roast",
+        "Calories": "5 calories",
+        "img": "https://img.freepik.com/free-photo/front-view-cup-cappuccino-with-cookies-book-table_141793-2825.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "239₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Featured Medium Roast Pike Place® Roast",
+        "Calories": "5 calories",
+        "img": "https://img.freepik.com/free-photo/fresh-coffee-cup-wooden-table-steam-rising-inviting-aroma-generated-by-artificial-intelligence_188544-85158.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "299₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Featured Dark Roast",
+        "Calories": "5 calories",
+        "img": "https://img.freepik.com/free-photo/front-view-cup-tea-black-cup-plate-dark-surface-sugar-ceremony-glass-breakfast-cake-dessert-color-sweet-cinnamon_179666-24442.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "279₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Featured Decaf Roast Decaf Pike Place® Roast",
+        "Calories": "5 calories",
+        "img": "https://img.freepik.com/premium-photo/black-coffee-beans-old-background_200402-4775.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "199₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Guatemala Huehuetenango Clover",
+        "Calories": "10 calories",
+        "img": "https://img.freepik.com/free-photo/green-tea-matcha-latte-white-cup_74190-7640.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "239₹",
+        "MainPrice": "150₹",
+        "Quantity":"1",
+        "Name": "Clover® Malawi Sable Farms",
+        "Calories": "5 calories",
+        "img": "https://img.freepik.com/free-photo/matcha-latte-transparent-glass-with-flower_197531-18174.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "199₹",
+        "MainPrice": "119₹",
+        "Quantity":"1",
+        "Name": "Caffè Misto",
+        "Calories": "110 calories",
+        "img": "https://img.freepik.com/free-photo/hot-chocolate-served-with-cookies_140725-1153.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "279₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Featured Decaf Roast Decaf Pike Place® Roast",
+        "Calories": "10 calories",
+        "img": "https://img.freepik.com/free-photo/retro-dishware-aroma-life-brown_1172-303.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BrewedCoffees",
+        "XPrice": "259₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Featured Dark Roast Caffè Verona®",
+        "Calories": "10 calories",
+        "img": "https://img.freepik.com/free-photo/easter-coffee-decorations-still-life_23-2150244070.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Cappuccinos",
+        "XPrice": "269₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Cappuccino",
+        "Calories": "140 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/cup-coffee-with-heart-drawn-foam_1286-70.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=sph"
+    },
+    {
+        "Coffeeid": "Espresso",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Espresso",
+        "Calories": "10 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/hot-coffee-mug-with-cream-rustic-wooden-table_123827-26354.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=sph"
+    },
+    {
+        "Coffeeid": "Espresso",
+        "XPrice": "249₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Espresso Con Panna",
+        "Calories": "35 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/some-coffee-beverage-coffee-beans_140725-4424.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "FlatWhites",
+        "XPrice": "289₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Flat White",
+        "Calories": "170 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/tasty-coffee-white-cup_1232-412.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "FlatWhites",
+        "XPrice": "279₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Honey Almondmilk Flat White",
+        "Calories": "120 calories",
+        "Toppings": "Blonde Espresso Roast",
+        "img": "https://img.freepik.com/premium-photo/cup-fresh-coffee-with-amaretti-cookies-gray-concrete_73387-308.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "249₹",
+        "MainPrice": "119₹",
+        "Quantity":"1",
+        "Name": "Blonde Vanilla Latte",
+        "Calories": "250 calories",
+        "Toppings": "Blonde Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/homemade-eggnog-with-cinnamon-wooden-table-typical-christmas-dessert-close-up_123827-28373.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "259₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Cinnamon Dolce Latte",
+        "Calories": "340 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/coffee-still-life_23-2148116698.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "259₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Caffè Latte",
+        "Calories": "190 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/chocolate-cake-kartoshka-cappuccino-wooden-table_501050-980.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Oleato™ Caffé Latte with Oatmilk",
+        "Calories": "330 calories",
+        "Toppings": "Press of Partanna® Olive Oil",
+        "img": "https://img.freepik.com/free-photo/close-up-chocolate-milkshake_23-2148635658.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "259₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Chestnut Praline Latte",
+        "Calories": "330 calories",
+        "Toppings": "Chestnut Praline Topping",
+        "img": "https://img.freepik.com/free-photo/vertical-closeup-shot-delicious-coffee-milkshake-with-nuts_181624-37413.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "279₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Caramel Brulée Latte",
+        "Calories": "410 calories",
+        "Toppings": "Caramel Brulée Topping",
+        "img": "https://img.freepik.com/free-photo/cup-cappuccino-with-cocoa-floral-decoration_114579-3315.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "259₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Sugar Cookie Almondmilk Latte",
+        "Calories": "180 calories",
+        "Toppings": "Red & Green Sprinkle Topping",
+        "img": "https://img.freepik.com/premium-photo/close-up-coffee-cookies-table_1048944-1952425.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "249₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Gingerbread Latte",
+        "Calories": "310 calories",
+        "Toppings": "Pumpkin Spice Topping",
+        "img": "https://img.freepik.com/premium-photo/homemade-xmas-eggnog-with-cinnamon-glass-cup-with-ginger-man-white-wooden-backdrop_1048944-19747320.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Lattes",
+        "XPrice": "289₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Pistachio Latte",
+        "Calories": "320 calories",
+        "Toppings": "Salted Brown-Buttery Topping",
+        "img": "https://img.freepik.com/free-photo/coffee-drink-filled-with-pistachio_140725-3401.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Macchiatos",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Caramel Macchiato",
+        "Calories": "250 calories",
+        "Toppings": "Caramel Drizzle",
+        "img": "https://img.freepik.com/free-photo/cup-hot-latte-with-froth-cream_140725-9610.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Macchiatos",
+        "XPrice": "269₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Espresso Macchiato",
+        "Calories": "15 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/premium-photo/cappuccino-coffee-wood-background_51764-2608.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Mochas",
+        "XPrice": "249₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Peppermint Mocha",
+        "Calories": "440 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/from-latte-with-cinnamon-chocolate-chips-grape-branch-glass-cup_176474-2636.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Mochas",
+        "XPrice": "289₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Peppermint White Chocolate Mocha",
+        "Calories": "510 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/close-up-view-delicious-hot-chocolate_23-2148799156.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Mochas",
+        "XPrice": "229₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Caffè Mocha",
+        "Calories": "370 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/premium-photo/hot-chocolate-drink_4740-3599.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Mochas",
+        "XPrice": "299₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "White Chocolate Mocha",
+        "Calories": "390 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/premium-photo/layered-coffee-glass-table-grey-background_392895-112756.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ChaiTeas",
+        "XPrice": "239₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Gingerbread Oatmilk Chai",
+        "Calories": "310 calories",
+        "Toppings": "Pumpkin Spice Topping",
+        "img": "https://img.freepik.com/free-photo/hot-chocolate-with-cinnamon-sticks_23-2148349197.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ChaiTeas",
+        "XPrice": "249₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Chai Tea Latte",
+        "Calories": "240 calories",
+        "Toppings": "Chai pumps",
+        "img": "https://img.freepik.com/free-photo/cup-milky-latte-grey-background_114579-19220.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ChaiTeas",
+        "XPrice": "279₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Chai Tea",
+        "Calories": "0 calories",
+        "Toppings": "Water",
+        "img": "https://img.freepik.com/free-psd/tasty-indian-masala-chai-with-spices-isolated-transparent-background_191095-14265.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BlackTeas",
+        "XPrice": "229₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Earl Grey Tea",
+        "Calories": "0 calories",
+        "Toppings": "Water",
+        "img": "https://img.freepik.com/free-photo/cup-with-tea-mint_23-2148550453.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BlackTeas",
+        "XPrice": "219₹",
+        "MainPrice": "119₹",
+        "Quantity":"1",
+        "Name": "Teavana® London Fog Tea Latte",
+        "Calories": "180 calories",
+        "Toppings": "Vanilla Syrup pumps",
+        "img": "https://img.freepik.com/free-photo/still-life-easter-coffee-decorations_52683-109956.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BlackTeas",
+        "XPrice": "239₹",
+        "MainPrice": "109₹",
+        "Quantity":"1",
+        "Name": "Royal English Breakfast Tea",
+        "Calories": "0 calories",
+        "Toppings": "Water",
+        "img": "https://img.freepik.com/free-photo/black-tea-with-various-jam-side-sausages_140725-6050.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "BlackTeas",
+        "XPrice": "229₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Royal English Breakfast Tea Latte",
+        "Calories": "150 calories",
+        "Toppings": "Liquid Cane Sugar pumps",
+        "img": "https://img.freepik.com/free-photo/cup-hot-cappuccino-with-foam-pattern_140725-2954.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "GreenTeas",
+        "XPrice": "249₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Emperor’s Clouds & Mist®",
+        "Calories": "0 calories",
+        "Toppings": "Water",
+        "img": "https://imgs.search.brave.com/4z8nBcwJ92noo2lhIpCKQATeG-xBANhb9DrfHTo1L4I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mYXN0/Zm9vZG51dHJpdGlv/bi5vcmcvaXRlbS1w/aG90b3MvNDAweDQw/MC85MTUxX3MuanBn"
+    },
+    {
+        "Coffeeid": "GreenTeas",
+        "XPrice": "279₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Matcha Tea Latte",
+        "Calories": "240 calories",
+        "Toppings": "Matcha Powder scoops",
+        "img": "https://img.freepik.com/free-photo/hot-green-matcha-latte-white-cup_74190-912.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "GreenTeas",
+        "XPrice": "239₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Honey Citrus Mint Tea",
+        "Calories": "130 calories",
+        "Toppings": "Honey Blend pumps",
+        "img": "https://img.freepik.com/free-photo/tea-still-life_23-2148117262.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "HerbalTeas",
+        "XPrice": "289₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Mint Majesty®",
+        "Calories": "0 calories",
+        "Toppings": "Water",
+        "img": "https://img.freepik.com/free-photo/beverage-with-green-foam_140725-3310.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "HotChocolates",
+        "XPrice": "259₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Peppermint Hot Chocolate",
+        "Calories": "440 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/premium-photo/hot-chocolate-with-marshmallow-cocoa_132278-3786.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "HotChocolates",
+        "XPrice": "299₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Peppermint White Hot Chocolate",
+        "Calories": "520 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/front-view-hot-chocolate-with-marshmallows_23-2148784950.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "HotChocolates",
+        "XPrice": "289₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Hot Chocolate",
+        "Calories": "370 calories",
+        "Toppings": "Mocha Drizzle",
+        "img": "https://img.freepik.com/free-photo/cup-hot-coffee-served-white-cup_140725-6921.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "HotChocolates",
+        "XPrice": "269₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "White Hot Chocolate",
+        "Calories": "400 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/high-angle-coffee-chocolate-arrangement-wooden-board_23-2148647874.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Juice",
+        "XPrice": "249₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Caramel Apple Spice",
+        "Calories": "380 calories",
+        "Toppings": "Caramel Drizzle",
+        "img": "https://img.freepik.com/free-photo/high-angle-delicious-apple-drink-concept_23-2148799212.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Juice",
+        "XPrice": "289₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Steamed Apple Juice",
+        "Calories": "220 calories",
+        "Toppings": "Steamed Hot",
+        "img": "https://img.freepik.com/free-photo/sliced-apple-glass-cherry-juice-wooden-plate-marble-table_114579-84488.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Steamers",
+        "XPrice": "249₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Pistachio Crème",
+        "Calories": "330 calories",
+        "Toppings": "Salted Brown-Buttery Topping",
+        "img": "https://img.freepik.com/free-photo/high-angle-yogurt-with-pear_23-2148566121.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Steamers",
+        "XPrice": "279₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Chestnut Praline Crème",
+        "Calories": "350 calories",
+        "Toppings": "Chestnut Praline Topping",
+        "img": "https://img.freepik.com/free-photo/delicious-chocolate-mousse-with-close-up_23-2148405886.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Steamers",
+        "XPrice": "269₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Caramel Brulée Crème",
+        "Calories": "420 calories",
+        "Toppings": "Caramel Brulée Topping",
+        "img": "https://img.freepik.com/free-photo/orange-americano-iced-coffee-cafe-aerial-view_53876-123081.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Steamers",
+        "XPrice": "279₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Steamed Milk",
+        "Calories": "200 calories",
+        "Toppings": "Milk Foam",
+        "img": "https://img.freepik.com/free-photo/milk-glass-complete-with-coffee-beans-cupcakes-bananas-cookies-wooden-plate_1150-24161.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "Steamers",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Vanilla Crème",
+        "Calories": "350 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/glass-drink-with-foam-inside-decorative-tray_114579-3142.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "229₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Pistachio Frappuccino® Blended Beverage",
+        "Calories": "380 calories",
+        "Toppings": "Salted Brown-Buttery Topping",
+        "img": "https://img.freepik.com/free-photo/hot-matcha-green-tea-latte-cup_74190-920.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "269₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Sugar Cookie Almondmilk Frappuccino® Blended Beverage",
+        "Calories": "370 calories",
+        "Toppings": "Red & Green Sprinkle Topping",
+        "img": "https://img.freepik.com/free-photo/coffee-with-cinnamon-side-view_141793-3253.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "269₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Caramel Brulée Frappuccino® Blended Beverage",
+        "Calories": "400 calories",
+        "Toppings": "Caramel Brulée Topping",
+        "img": "https://img.freepik.com/premium-photo/cafe-latte-with-whipped-cream-caramel_214995-4548.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "279₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Chestnut Praline Frappuccino® Blended Beverage",
+        "Calories": "380 calories",
+        "Toppings": "Chestnut Praline Topping",
+        "img": "https://img.freepik.com/free-photo/vertical-closeup-shot-delicious-coffee-milkshake-with-nuts_181624-37413.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "259₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Peppermint Mocha Frappuccino® Blended Beverage",
+        "Calories": "430 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/coffee-drink-with-whipped-cream-coffee-beans_140725-6104.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "239₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Peppermint White Chocolate Mocha Frappuccino® Blended Beverage",
+        "Calories": "470 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/hot-cup-caramel-coffee-with-cream_140725-7520.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "199₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Mocha Cookie Crumble Frappuccino®",
+        "Calories": "480 calories",
+        "Toppings": "Cookie Crumble Topping",
+        "img": "https://img.freepik.com/free-photo/high-angle-glass-dessert-with-chocolate-biscuits_23-2148603290.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "279₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Caramel Ribbon Crunch Frappuccino® Blended Beverage",
+        "Calories": "470 calories",
+        "Toppings": "Caramel Drizzle",
+        "img": "https://img.freepik.com/premium-photo/glass-coffee-with-whipped-cream-caramel-topping_787273-797.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "289₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Espresso Frappuccino® Blended Beverage",
+        "Calories": "210 calories",
+        "Toppings": "Frappuccino® Roast pumps",
+        "img": "https://img.freepik.com/free-photo/coffee-drink-with-whipped-cream_140725-3737.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "299₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "PCaffè Vanilla Frappuccino® Blended Beverage",
+        "Calories": "410 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/coffee-cocktail-with-milk-whipping-cream-glass_114579-3200.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "239₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Caramel Frappuccino® Blended Beverage",
+        "Calories": "380 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/coffee-glisse-cream-chocolate-sauceside-view_141793-2347.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CoffeeFrappuccino",
+        "XPrice": "289₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "White Chocolate Mocha Frappuccino® Blended Beverage",
+        "Calories": "370 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/premium-photo/cold-coffee-drink-frappe-frappuccino-with-whipped-cream-chocolate-chips-with-straws-dark-surface_186277-1294.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "299₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Chocolate-Covered Strawberry Crème Frappuccino® Blended Beverage",
+        "Calories": "410 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/fresh-gourmet-dessert-splashing-sweet-chocolate-liquid-generative-ai_188544-12404.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "299₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Pistachio Crème Frappuccino® Blended Beverage",
+        "Calories": "360 calories",
+        "Toppings": "Salted Brown-Buttery Topping",
+        "img": "https://img.freepik.com/free-photo/coffee-drink-filled-with-pistachio_140725-3401.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "249₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Sugar Cookie Almondmilk Crème Frappuccino® Blended Beverage",
+        "Calories": "310 calories",
+        "Toppings": "Red & Green Sprinkle Topping",
+        "img": "https://img.freepik.com/premium-photo/tray-with-glass-tasty-frappe-coffee-wooden-table_392895-25228.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Chocolate Cookie Crumble Crème Frappuccino®",
+        "Calories": "460 calories",
+        "Toppings": "Cookie Crumble Topping",
+        "img": "https://img.freepik.com/free-photo/front-view-arrangement-with-frappe-chocolate-cake_23-2148222448.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "289₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage",
+        "Calories": "420 calories",
+        "Toppings": "Caramel Crunch Topping",
+        "img": "https://img.freepik.com/free-photo/iced-coffee-glass_74190-634.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "269₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Strawberry Crème Frappuccino® Blended Beverage",
+        "Calories": "370 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/premium-photo/strawberry-milkshake-with-whipped-cream_1148901-2049.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "279₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Double Chocolaty Chip Crème Frappuccino® Blended Beverage",
+        "Calories": "410 calories",
+        "Toppings": "Mocha Drizzle",
+        "img": "https://img.freepik.com/free-photo/chocolate-milkshake-with-whipped-cream-chocolate-chips_1150-18524.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "229₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Vanilla Bean Crème Frappuccino® Blended Crème",
+        "Calories": "380 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/trendy-delicious-fresh-dalgona-coffee-with-milk-white-wood-table_181624-22225.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "219₹",
+        "MainPrice": "119₹",
+        "Quantity":"1",
+        "Name": "Caramel Brulée Crème Frappuccino® Blended Beverage",
+        "Calories": "380 calories",
+        "Toppings": "Caramel Brulée Topping",
+        "img": "https://img.freepik.com/free-photo/side-view-latte-coffee-with-milk-foam_140725-13951.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "279₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Peppermint Mocha Crème Frappuccino® Blended Beverage",
+        "Calories": "390 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/hot-cup-caramel-coffee-with-cream_140725-7520.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "259₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Peppermint White Chocolate Crème Frappuccino® Blended Beverage",
+        "Calories": "420 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/glass-jar-with-cream-chocolate_1232-1314.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "CremeFrappuccino",
+        "XPrice": "299₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Matcha Crème Frappuccino® Blended Beverage",
+        "Calories": "420 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/glass-matcha-green-tea-with-latte-art-top-1_140725-6943.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "239₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Chocolate Hazelnut Cookie Cold Brew",
+        "Calories": "280 calories",
+        "Toppings": "Chocolate Cream Cold Foam",
+        "img": "https://img.freepik.com/free-photo/close-up-view-chocolate-milkshake-with-walnuts_23-2148746726.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "269₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Pistachio Cream Cold Brew",
+        "Calories": "250 calories",
+        "Toppings": "Pistachio Cream Cold Foam",
+        "img": "https://img.freepik.com/free-photo/coffee-beverage-macarons_23-2148523005.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "279₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Cinnamon Caramel Cream Cold Brew",
+        "Calories": "250 calories",
+        "Toppings": "Cinnamon Sweet Cream Cold Foam",
+        "img": "https://img.freepik.com/free-photo/glass-eggnog-wooden-surface-with-space-text_181624-3346.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "289₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Salted Caramel Cream Cold Brew",
+        "Calories": "240 calories",
+        "Toppings": "Salted Caramel Cream Cold Foam",
+        "img": "https://img.freepik.com/free-photo/front-view-mokachino-with-whipped-cream-chocolate-table_141793-4644.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "239₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Chocolate Cream Cold Brew",
+        "Calories": "250 calories",
+        "Toppings": "Chocolate Cream Cold Foam",
+        "img": "https://img.freepik.com/free-photo/iced-chocolate_1339-4415.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "289₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Vanilla Sweet Cream Cold Brew",
+        "Calories": "110 calories",
+        "Toppings": "Vanilla Syrup pumps",
+        "img": "https://img.freepik.com/free-photo/milkshake-with-whipped-cream-topping_140725-7985.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "299₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Cold Brew Coffee with Milk",
+        "Calories": "35 calories",
+        "Toppings": "Ice",
+        "img": "https://img.freepik.com/free-photo/front-view-milk-pouring-beverage_23-2148453595.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "ColdBrews",
+        "XPrice": "249₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Cold Brew Coffee",
+        "Calories": "5 calories",
+        "Toppings": "Ice",
+        "img": "https://img.freepik.com/free-photo/delicious-bubble-tea-still-life_23-2149870653.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "NitroColdBrews",
+        "XPrice": "279₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Cinnamon Caramel Cream Nitro Cold Brew",
+        "Calories": "260 calories",
+        "Toppings": "Cinnamon Dolce Sprinkles",
+        "img": "https://img.freepik.com/free-photo/homemade-eggnog-with-cinnamon-wooden-table-typical-christmas-dessert-close-up_123827-28373.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "NitroColdBrews",
+        "XPrice": "289₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Nitro Cold Brew",
+        "Calories": "5 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/coffee-drink-with-hot-chocolate_140725-1745.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "NitroColdBrews",
+        "XPrice": "249₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Vanilla Sweet Cream Nitro Cold Brew",
+        "Calories": "70 calories",
+        "Toppings": "Splash of Vanilla Sweet Cream",
+        "img": "https://img.freepik.com/free-photo/coffee-still-life_23-2148116689.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedAmericano",
+        "XPrice": "229₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Iced Caffè Americano",
+        "Calories": "15 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/cold-coffee_144627-22086.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedCoffees",
+        "XPrice": "289₹",
+        "MainPrice": "169₹",
+        "Quantity":"1",
+        "Name": "Iced Coffee",
+        "Calories": "80 calories",
+        "Toppings": "Classic Syrup pumps",
+        "img": "https://img.freepik.com/free-photo/cold-coffee_144627-22100.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedCoffees",
+        "XPrice": "289₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Iced Coffee with Milk",
+        "Calories": "110 calories",
+        "Toppings": "Classic Syrup pumps",
+        "img": "https://img.freepik.com/free-photo/glass-foamy-cold-coffee-with-biscuits-wooden-plate_114579-90906.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedCoffees",
+        "XPrice": "279₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Iced Espresso",
+        "Calories": "10 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/aromatic-frappuccino-table_23-2148900668.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedShakenEspresso",
+        "XPrice": "269₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Iced Hazelnut Oatmilk Shaken Espresso",
+        "Calories": "150 calories",
+        "Toppings": "Blonde Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/close-up-view-chocolate-milkshake-with-walnuts_23-2148746726.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedShakenEspresso",
+        "XPrice": "289₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Iced Shaken Espresso",
+        "Calories": "100 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/top-view-plastic-cup-coffee-latte-with-black-straw_140725-656.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedShakenEspresso",
+        "XPrice": "249₹",
+        "MainPrice": "119₹",
+        "Quantity":"1",
+        "Name": "Iced Brown Sugar Oatmilk Shaken Espresso",
+        "Calories": "120 calories",
+        "Toppings": "Brown Sugar Syrup pumps",
+        "img": "https://img.freepik.com/premium-photo/homemade-milk-bubble-tea-with-tapioca-pearls_511235-4329.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedFlatWhites",
+        "XPrice": "289₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Iced Honey Almondmilk Flat White",
+        "Calories": "100 calories",
+        "Toppings": "Honey Blend pumps",
+        "img": "https://img.freepik.com/free-photo/vertical-selective-focus-shot-glass-coffee-blue-surface_181624-32956.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedFlatWhites",
+        "XPrice": "269₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Iced Flat White",
+        "Calories": "110 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/free-photo/cup-cappuccino-saucer-blue-background_114579-74451.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "299₹",
+        "MainPrice": "189₹",
+        "Quantity":"1",
+        "Name": "Iced Pistachio Latte",
+        "Calories": "260 calories",
+        "Toppings": "Salted Brown-Buttery Topping",
+        "img": "https://img.freepik.com/free-photo/chocolate-milkshake-glass-topped-with-whipped-cream-chocolate_140725-1320.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "239₹",
+        "MainPrice": "179₹",
+        "Quantity":"1",
+        "Name": "Iced Gingerbread Latte",
+        "Calories": "300 calories",
+        "Toppings": "Pumpkin Spice Topping",
+        "img": "https://img.freepik.com/premium-photo/ice-honey-pumpkin-spice-latte-with-whipped-cream-toning-selective_93624-171.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "259₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Iced Sugar Cookie Almondmilk Latte",
+        "Calories": "150 calories",
+        "Toppings": "Red & Green Sprinkle Topping",
+        "img": "https://img.freepik.com/free-photo/top-view-chocolate-milkshake_23-2148635663.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "299₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Iced Caramel Brulée Latte",
+        "Calories": "400 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/iced-latte-coffee-splash-morning-breakfast-concept_144627-42794.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "289₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Iced Chestnut Praline Latte",
+        "Calories": "320 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/iced-latte-coffee-morning-breakfast-concept_144627-42790.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "299₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Iced Caffè Latte",
+        "Calories": "130 calories",
+        "Toppings": "Signature Espresso Roast",
+        "img": "https://img.freepik.com/premium-photo/glass-coffee-table_76440-859.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "229₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Iced Cinnamon Dolce Latte",
+        "Calories": "300 calories",
+        "Toppings": "Cinnamon Dolce Sprinkles",
+        "img": "https://img.freepik.com/free-photo/glass-with-tasty-drink-cinnamon-marble-surface_114579-30449.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedLattes",
+        "XPrice": "279₹",
+        "MainPrice": "159₹",
+        "Quantity":"1",
+        "Name": "Blonde Vanilla Latte",
+        "Calories": "190 calories",
+        "Toppings": "Vanilla Syrup pumps",
+        "img": "https://img.freepik.com/free-photo/cup-cappuccino-saucer-blue-table_114579-83218.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedMacchiatos",
+        "XPrice": "259₹",
+        "MainPrice": "139₹",
+        "Quantity":"1",
+        "Name": "Iced Caramel Macchiato",
+        "Calories": "250 calories",
+        "Toppings": "Caramel Drizzle",
+        "img": "https://img.freepik.com/free-photo/iced-coffee-glass_74190-634.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedMochas",
+        "XPrice": "269₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Iced Peppermint Mocha",
+        "Calories": "420 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/glass-jar-with-cream-chocolate_1232-1314.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedMochas",
+        "XPrice": "279₹",
+        "MainPrice": "149₹",
+        "Quantity":"1",
+        "Name": "Iced Peppermint White Chocolate Mocha",
+        "Calories": "490 calories",
+        "Toppings": "Chocolate Curls Topping",
+        "img": "https://img.freepik.com/free-photo/glass-cacao-drink-with-chocolate-syrup-whipped-cream_140725-6928.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedMochas",
+        "XPrice": "289₹",
+        "MainPrice": "199₹",
+        "Quantity":"1",
+        "Name": "Iced White Chocolate Mocha",
+        "Calories": "390 calories",
+        "Toppings": "Whipped Cream",
+        "img": "https://img.freepik.com/free-photo/glass-chocolate-milk-dark-surface_1150-43329.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    },
+    {
+        "Coffeeid": "IcedMochas",
+        "XPrice": "299₹",
+        "MainPrice": "129₹",
+        "Quantity":"1",
+        "Name": "Iced Caffè Mocha",
+        "Calories": "350 calories",
+        "Toppings": "Mocha Sauce pumps",
+        "img": "https://img.freepik.com/premium-photo/mocha-frappe-plastic-cup_6351-1577.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais"
+    }
+]

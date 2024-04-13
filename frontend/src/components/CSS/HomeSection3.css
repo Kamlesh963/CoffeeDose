@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.containerbox{
+    width: 100%;
+    height: 400px;  
+  
+    margin: auto;
+    padding: 10px;
+    box-shadow: 0px 3px 15px;
+  background-image:url('https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D');
+  height:100vh;
+  max-height:490px;
+}
+.containerbox .cont{
+  max-width:1300px;
+  margin:auto;
+  width:100%;
+  height:100%;
+    display: flex;
+    justify-content: center;
+}
+.slide{
+    min-width: 10px;
+    width: 50px;
+    height: 100%;
+    justify-content: center;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 50px;
+    display: flex;
+    align-items: flex-end;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 3px 3px 5px black;
+    opacity: .5;
+}
+
+
+.active{
+    flex-grow: 1;
+    transition-duration: 1s;
+    opacity: 1;
+    padding: 0 10px;
+    border-radius: 25px;
+    padding-bottom: 10px
+}
+.nonActive{
+    flex-grow: 0;
+      opacity: .5;
+      transition-duration: 1s;
+
+}
+.slide:nth-of-type(1){
+    background-image: url('https://images.pexels.com/photos/437716/pexels-photo-437716.jpeg?auto=compress&cs=tinysrgb&w=600')
+}
+.slide:nth-of-type(2){
+    background-image: url('https://c0.wallpaperflare.com/preview/439/110/359/beverage-biscuit-blur-brown.jpg')
+}
+.slide:nth-of-type(3){
+    background-image: url('https://img.freepik.com/free-photo/four-different-cocktail-smoothies-with-milky-cream-top_114579-1097.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.282867472.1702277351&semt=sph')
+}
+.slide:nth-of-type(4){
+    background-image: url('https://img.freepik.com/free-photo/bowl-noodle-trivet-tomatoes-lemon-garlic-marble-surface_114579-91260.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.282867472.1702277351&semt=sph')
+}
+.slide:nth-of-type(5){
+    background-image: url('https://img.freepik.com/free-photo/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate_176474-3049.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.282867472.1702277351&semt=sph')
+}
+.slide:nth-of-type(6){
+    background-image: url('https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.282867472.1702277351&semt=sph')
+}
+
+@media screen and (max-width: 700px) {
+    .slide{
+        width: 20px;
+    }
+    .active{
+        border-radius: 25px
+    }
+}

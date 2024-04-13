@@ -1,0 +1,312 @@
+.footer_unorder_list {
+    margin: 0px;
+    padding: 0px;
+}
+.footer_background{
+    /* backdrop-filter:blur(10px); */
+    background: linear-gradient(to right, rgba(1, 1, 1, 0.6) 10%, rgba(1, 1, 1, 0.6) 51%, rgba(1, 1, 1, 0.6) 100%), url("https://media.istockphoto.com/id/1428594094/photo/empty-coffee-shop-interior-with-wooden-tables-coffee-maker-pastries-and-pendant-lights.webp?b=1&s=170667a&w=0&k=20&c=TTATB_esYszT-yzqQixyDBJeZQfcXjHwDs6-PhnMDcE=");
+    /* background-image: url('../../../public/images/home/carousel7.jpg'); */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.footer-section {
+    /* background: #151414;  */
+    position: relative;
+}
+
+.footer-cta {
+    border-bottom: 1px solid #373636;
+}
+
+.single-cta .footer_icons {
+    /* color: #ff5e14; */
+    color: #06AEB8;
+    font-size: 30px;
+    float: left;
+    margin-top: 8px;
+}
+
+.cta-text {
+    padding-left: 15px;
+    display: inline-block;
+}
+
+.cta-text h4 {
+    color: #fff;
+    /* color: black; */
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.cta-text span {
+    color: #e4e0e0;
+    /* color: black; */
+    font-size: 15px;
+}
+
+.footer-content {
+    position: relative;
+    z-index: 2;
+}
+
+.footer-pattern img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 330px;
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+.footer-logo {
+    margin-bottom: 30px;
+}
+
+.footer-logo img {
+    max-width: 200px;
+}
+
+.footer-text p {
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: #e4e0e0;
+    /* color: black; */
+    line-height: 28px;
+}
+
+.footer-social-icon span {
+    color: #fff;
+    /* color: black; */
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+
+.footer-social-icon a {
+    color: #fff;
+    font-size: 16px;
+    margin-right: 15px;
+}
+
+.footer-social-icon .footer_icons {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 38px;
+    border-radius: 50%;
+}
+
+@media screen and (min-width:300px) and (max-width:500px) {
+    .footer-social-icon .footer_icons {
+        height: 18px;
+        width: 18px;
+        text-align: center;
+        line-height: 38px;
+        border-radius: 50%;
+    }
+
+    .fb_bg {
+        background: #3B5998;
+        padding: 8px 8px;
+    }
+
+    .tw_bg {
+        background: #55ACEE;
+        padding: 8px 8px;
+    }
+
+    .goog_bg {
+        background: #DD4B39;
+        padding: 8px 8px;
+    }
+
+    .insta {
+        background: orangered;
+        padding: 8px 8px;
+    }
+
+    .linkdin {
+        background: #1f92ea;
+        padding: 8px 8px;
+    }
+
+}
+
+.fb_bg {
+    background: #3B5998;
+    padding: 10px 10px;
+}
+
+.tw_bg {
+    background: #55ACEE;
+    padding: 10px 10px;
+}
+
+.goog_bg {
+    background: #DD4B39;
+    padding: 10px 10px;
+}
+
+.insta {
+    background: orangered;
+    padding: 10px 10px;
+}
+
+.linkdin {
+    background: #1f92ea;
+    padding: 10px 10px;
+}
+
+
+.fb_bg:hover {
+    color: #3B5998;
+    background-color: white;
+}
+
+.tw_bg:hover {
+    color: #55ACEE;
+    background-color: white;
+}
+
+.goog_bg:hover {
+    color: #DD4B39;
+    background-color: white;
+}
+
+.insta:hover {
+    color: orangered;
+    background-color: white;
+}
+
+.linkdin:hover {
+    color: #1f92ea;
+    background-color: white;
+}
+
+.footer-widget-heading h3 {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.footer-widget-heading h3::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    height: 2px;
+    width: 50px;
+    background: #ff5e14;
+}
+
+.footer-widget .footer_unorder_list li {
+    display: inline-block;
+    /* float: left; */
+    width: 50%;
+    margin-bottom: 12px;
+}
+
+.footer-widget .footer_unorder_list li a:hover {
+    color: #ff5e14;
+}
+
+.footer-widget .footer_unorder_list li a {
+    color: #e4e0e0;
+    /* color: black; */
+    text-transform: capitalize;
+}
+
+.subscribe-form {
+    position: relative;
+    overflow: hidden;
+}
+
+.subscribe-form input {
+    width: 100%;
+    padding: 14px 28px;
+    backdrop-filter: blur(2px) !important;
+    background-color: rgba(226, 232, 236, 0.2) !important;
+    border: 2px solid #696868;
+    border: none;
+    color: black;
+}
+
+.subscribe-form input::placeholder{
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+}
+
+.subscribe-form button .footer_icons {
+    color: #fff;
+    font-size: 22px;
+    transform: rotate(-6deg);
+}
+
+.copyright-area {
+    /* background: #202020; */
+    padding: 25px 0;
+}
+
+.copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #e4e0e0;
+    /* color: black; */
+}
+
+.copyright-text p a {
+    color: #ff5e14;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-menu li:hover a {
+    color: #ff5e14;
+}
+
+.footer-menu li a {
+    font-size: 14px;
+    color: #e4e0e0;
+    /* color: black; */
+}
+.logo {
+    color: #FFF;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.logofont {
+    font-family: 'RoadTest';
+    font-size: 33px;
+    /* font-size: 48px; */
+    font-weight: 800;
+    background: -webkit-linear-gradient(45deg, #080191, #00ff95 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logofont span {
+    letter-spacing: 3px;
+    -webkit-text-fill-color: greenyellow;
+    color: #ff0 !important;
+}

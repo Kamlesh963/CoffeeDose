@@ -1,0 +1,45 @@
+.counter_img{
+    object-fit: cover;
+    width: 100%;
+    height: 620px !important;
+    cursor: pointer;
+}
+.counter_main{
+    font-size: 55px;
+    font-family:cursive;
+    color: #ceb281 ;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    align-content: center;
+    margin: 30px 0;
+}
+.count_number{
+    font-family: serif;
+    font-size: 90px ;
+    color: whitesmoke;
+}
+@media screen and (min-width:300px) and (max-width:567px) {
+    .counter_main{
+        font-size: 40px;
+        font-family:cursive;
+        color: #ceb281 ;
+        text-align: center;
+        font-weight: bold;
+        align-items: center;
+        align-content: center;
+        margin: 30px 0;
+    }
+
+    .count_number{
+        font-family: serif;
+        font-size: 60px ;
+        color: whitesmoke;
+    }
+}
+.title_count{
+    color: #F6D776;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+}

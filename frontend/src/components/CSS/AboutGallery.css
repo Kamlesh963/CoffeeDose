@@ -1,0 +1,70 @@
+    .containergallery {
+        max-width: 80rem;
+        width: 100%;
+        padding: 4rem 2rem 0rem 2rem;
+        margin: 0 auto;
+    }
+
+    .mainbox .containergallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mainbox .card {
+        color: #252a32;
+        border-radius: 2px;
+        background: #ffffff;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+    }
+
+    .mainbox .card-image {
+        position: relative;
+        display: block;
+        width: 100%;
+        padding-top: 70%;
+        background: #ffffff;
+    }
+
+    .mainbox .card-image img {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .mainbox .containergallery {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-gap: 1rem;
+        }
+    }
+
+    .galleryshow {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .gallerytext {
+        max-width: 80%;
+        max-height: 80%;
+    }
+
+    .gallerytext img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }

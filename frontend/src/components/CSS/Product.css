@@ -1,0 +1,117 @@
+.background_menu {
+    z-index: -1;
+    position: relative;
+    background-image: url('https://img.freepik.com/premium-photo/green-coffee-gray-concrete-background-wall-table_1048944-384867.jpg?size=626&ext=jpg&uid=R123337181&ga=GA1.1.966068405.1706683627&semt=ais');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px !important;
+    width: 100%;
+}
+
+@media screen and (min-width:300px) and (max-width:767px) {
+    .background_menu {
+        height: 250px;
+    }
+
+    .background_text_posit {
+        position: absolute;
+        top: 130px;
+        left: 30%;
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 500;
+        color: white;
+    }
+}
+@media screen and (min-width:400px) and (max-width:567px) {
+    .background_menu {
+        height: 280px;
+    }
+
+    .background_text_posit {
+        position: absolute;
+        top: 120px;
+        left: 40%;
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 500;
+        color: white;
+    }
+}
+
+@media screen and (min-width:567px) and (max-width:900px) {
+    .background_text_posit {
+        position: absolute;
+        top: 100px;
+        left: 40%;
+        font-size: 80px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 500;
+        color: white;
+    }
+}
+@media screen and (min-width:900px) and (max-width:2000px) {
+    .background_text_posit {
+        position: absolute;
+        top: 100px;
+        left: 45%;
+        font-size: 80px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 500;
+        color: white;
+    }
+}
+
+
+.title_coffee {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+}
+.title_coffee1 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: black;
+    margin-left: 30px;
+}
+
+.card_style {
+    width: 19rem;
+    height: 30rem;
+    cursor: pointer;
+}
+.card_image_property{
+    height: 19rem;
+}
+@media screen and (min-width:300px) and (max-width:567px) {
+    .card_image_property{
+        height: 17rem;
+    }
+    .card_style {
+        width: 17rem;
+        height: 30rem;
+        cursor: pointer;
+    }
+}
+
+.card_style:hover {
+    box-shadow: 0 3px 16px 0 rgba(0, 0, 0, .11);
+}
+
+.name_style {
+    overflow: hidden;
+    height: 52px;
+    text-overflow: ellipsis;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.add_cart{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:500;
+    font-size: 18px;
+}
