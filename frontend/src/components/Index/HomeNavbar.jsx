@@ -5,15 +5,23 @@ import { Link, useNavigate } from 'react-router-dom'
 
 function HomeNavbar() {
     const navigate = useNavigate();
+    let abc;
+    if (sessionStorage.getItem("islogin")) {
+         abc = JSON.parse(sessionStorage.getItem("islogin"))
+    }
+    else {
+         abc = sessionStorage.setItem("islogin", JSON.stringify({ loginornot: 'false', value: '' }))
+    }
+
     const handletogohome = () => {
         navigate('/');
         setTimeout(() => {
-          const menuSection = document.getElementById('menu');
-          if (menuSection) {
-            menuSection.scrollIntoView({ behavior: 'smooth' });
-          }
+            const menuSection = document.getElementById('menu');
+            if (menuSection) {
+                menuSection.scrollIntoView({ behavior: 'smooth' });
+            }
         }, 250);
-      };
+    };
 
     const [chk1, setChk1] = useState(false)
     const [chk2, setChk2] = useState(false)
@@ -25,6 +33,13 @@ function HomeNavbar() {
             top: 0,
             behavior: "smooth"
         })
+    }
+    const handlelogout = () => {
+        let a = {
+            loginornot: 'false',
+            value: ''
+        }
+        sessionStorage.setItem("islogin", JSON.stringify(a))
     }
     const fetchCartCount = async () => {
         try {
@@ -82,7 +97,7 @@ function HomeNavbar() {
                                                 <Link onClick={scrollToTop} to='/products' className='text-decoration-none'> <li className='p-3 aboutlink drop_text m-0 hover_color'>Shop</li></Link>
                                                 <Link onClick={scrollToTop} to='/cart' className='text-decoration-none'> <li className='p-3 drop_text m-0 hover_color aboutlink'>Cart</li></Link>
                                                 <Link onClick={scrollToTop} to='/onlineorder' className='text-decoration-none'><li className='p-3 drop_text m-0 hover_color aboutlink'>Checkout</li></Link>
-                                                <Link onClick={scrollToTop} to='/login' className='text-decoration-none'><li className='p-3 drop_text aboutlink m-0 hover_color'>My Account</li></Link>
+                                                <Link onClick={scrollToTop} to='/myorder' className='text-decoration-none'><li className='p-3 drop_text aboutlink m-0 hover_color'>My Orders</li></Link>
                                             </ul>
                                         </a>
                                     </li>
@@ -112,7 +127,13 @@ function HomeNavbar() {
                                     <Link onClick={scrollToTop} to='/search' className='text-decoration-none text-black'><div className='d-inline-flex pt-1'><FontAwesomeIcon className='hover_color ms-3' title='Search' icon="fa-solid fa-magnifying-glass" style={{ fontSize: '17px', cursor: 'pointer' }} /> </div></Link>
                                 </div>
                                 <div className='text-center mx-auto d-none d-lg-block'>
-                                    <Link onClick={scrollToTop} to='/login' style={{ textDecoration: 'none', color: 'black' }}><div className="px-3 py-2"><FontAwesomeIcon className='hover_color' title='User' icon="fa-solid fa-user" style={{ fontSize: '17px', cursor: 'pointer' }} /></div></Link>
+                                    <div className="dropdown11">
+                                        {abc.loginornot == "true" && <button className="dropbtn11"><div className="px-3 py-2"> <span className='hover_color' title='User' style={{ fontSize: '17px', cursor: 'pointer', padding: '9px 14px', borderRadius: '50%', backgroundColor: "#c0aa83", color: 'black', fontWeight:'bold',textTransform:'capitalize' }} >{abc.value}</span></div></button>}
+                                        {abc.loginornot == "false" && <button className="dropbtn11"><div className="px-3 py-2"> <FontAwesomeIcon className='hover_color' title='User' icon="fa-solid fa-user" style={{ fontSize: '17px', cursor: 'pointer' }} /></div></button>}
+                                            {abc.loginornot == "false" && < Link className='dropdown_content11' onClick={scrollToTop} to='/login' style={{ textDecoration: 'none', color: 'black' }}>Login</Link>}
+                                            {abc.loginornot == "true" && <Link className='dropdown_content11' onClick={handlelogout} to='/login' style={{ textDecoration: 'none', color: 'black' }}>LogOut</Link>}
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -123,8 +144,8 @@ function HomeNavbar() {
                             <Link onClick={scrollToTop} to='/search' className='text-decoration-none text-black'><div className='d-inline-flex pt-1'><FontAwesomeIcon className='hover_color ms-3' title='Search' icon="fa-solid fa-magnifying-glass" style={{ fontSize: '19px', cursor: 'pointer' }} /> </div></Link>
                         </div>
                     </nav>
-                </div>
-            </div>
+                </div >
+            </div >
         </>
     )
 }

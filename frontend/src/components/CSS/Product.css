@@ -84,6 +84,11 @@
     height: 30rem;
     cursor: pointer;
 }
+.card_style1 {
+    width: 19rem;
+    height: 31rem;
+    cursor: pointer;
+}
 .card_image_property{
     height: 19rem;
 }
@@ -94,6 +99,11 @@
     .card_style {
         width: 17rem;
         height: 30rem;
+        cursor: pointer;
+    }
+    .card_style1 {
+        width: 17rem;
+        height: 31rem;
         cursor: pointer;
     }
 }

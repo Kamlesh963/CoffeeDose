@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import HomeNavbar from './HomeNavbar'
 import HomeFooter from './HomeFooter'
 import { ToastContainer, toast } from 'react-toastify'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Login() {
+    const navigate = useNavigate(); // Access the history object
     const [showPassword, setShowPassword] = useState(false)
 
     const [data, setData] = useState({
@@ -17,12 +18,15 @@ function Login() {
         email: '',
         password: ''
     });
+
     const handlechange = (e) => {
         const { name, value } = e.target;
         setData({ ...data, [name]: value });
     }
 
     const handlesubmit = async (e) => {
+        e.preventDefault();
+
         let newErrors = { ...errors };
         let isValid = true;
         
@@ -42,11 +46,12 @@ function Login() {
             newErrors.password = "";
         }
         setErrors(newErrors);
+        if (data.email === 'admin1234@gmail.com' && data.password === 'Admin@1234') {
+            toast.success("Login Successfully !");  
+            navigate('/admin');
+        } 
 
         if (isValid) {
-
-            e.preventDefault();
-
             try {
                 const response = await fetch('http://localhost:1300/api/login', {
                     method: 'POST',
@@ -61,10 +66,17 @@ function Login() {
                 }
     
                 const responseData = await response.json();
-    
+                let obj={
+                    loginornot:'true',
+                    value:data.email.slice(0,1)
+                }
+                
                 if (responseData.success) {
                     toast.success("Login Successfully !");
+
+                    sessionStorage.setItem('islogin',JSON.stringify(obj))
                     setData({ email: '', password: '' });
+                    navigate("/")
                 } else {
                     toast.error("Invalid username or password");
                 }
@@ -78,12 +90,13 @@ function Login() {
     const togglePasswordVisibility = () => {
         setShowPassword(!showPassword);
     };
+
     return (
         <>
             <HomeNavbar />
             <div className='container-fluid loginbody'>
                 <div className="wrapper1 my-4 my-sm-0">
-                    <form action="">
+                    <form>
                         <h1>Login </h1>
                         <div className="input-box">
                             <input type="email" placeholder="Enter the Email" name='email' onChange={handlechange} value={data.email} />
@@ -94,8 +107,8 @@ function Login() {
                             <span onClick={togglePasswordVisibility}> {showPassword ? <FontAwesomeIcon icon="fa-regular fa-eye " className='fs-5 text-white posab' /> : <FontAwesomeIcon icon="fa-regular fa-eye-slash" className='fs-5 text-white posab' />}</span>
                             <div style={{ color: 'red' }}>{errors.password}</div>
                         </div>
-                        <div className="remember-forgot">
-                            <label>
+                        <div className="remember-forgot text-white">
+                            <label className='text-white'>
                                 <input type="checkbox" />Remember me
                             </label>
                             <a href="#">Forgot password?</a>

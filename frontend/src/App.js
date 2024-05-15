@@ -15,6 +15,11 @@ import Login from './components/Index/Login';
 import SignUp from './components/Index/SignUp';
 import data from './components/AllProducts.json'
 import axios from 'axios'
+import Admin from './components/Index/Admin';
+import AddProduct from './components/Index/AddProduct';
+import EditProduct from './components/Index/EditProduct';
+import Payment from './components/Index/Payment';
+import MyOrder from './components/Index/MyOrder';
 
 function App() {
   const handleadd = async () => {
@@ -32,14 +37,19 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/aboutus' element={<AboutUs />} />
         <Route path='/faq' element={<FAQ />} />
-        <Route path='/products' element={<Product/>}/>
-        <Route path='/search' element={<Search/>}/>
-        <Route path='/cart' element={<Cart/>}/>
-        <Route path='/onlineorder' element={<OnlineOrder/>}/>
-        <Route path='/login' element={<Login/>}/>
-        <Route path='/signup' element={<SignUp/>}/>
+        <Route path='/products' element={<Product />} />
+        <Route path='/search' element={<Search />} />
+        <Route path='/cart' element={<Cart />} />
+        <Route path='/onlineorder' element={<OnlineOrder />} />
+        <Route path='/login' element={<Login />} />
+        <Route path='/signup' element={<SignUp />} />
+        <Route path='/admin' element={<Admin />} />
+        <Route path='/addprocduct' element={<AddProduct />} />
+        <Route path='/editproduct' element={<EditProduct />} />
+        <Route path='/payment' element={<Payment />} />
+        <Route path='/myorder' element={<MyOrder />} />
       </Routes>
-       {/* <button onClick={handleadd}>Add</button>  */}
+      {/* <button onClick={handleadd}>Add</button>  */}
     </>
   );
 }

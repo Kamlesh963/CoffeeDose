@@ -54,13 +54,13 @@ function Category(props) {
         const fetchProductsByCoffeeid = async () => {
             try {
                 const response = await fetch(`http://localhost:1300/api/category?Coffeeid=${props.data}`);
-                console.log("my datad response", response)
+                // console.log("my datad response", response)
                 if (!response.ok) {
                     throw new Error(`Error fetching products: ${response.status}`);
                 }
 
                 const products = await response.json();
-                console.log("my filter data ", products)
+                // console.log("my filter data ", products)
 
                 setCartArr(products);
             } catch (error) {

@@ -42,11 +42,11 @@ function AboutCounter() {
                         <div className='text-white mx-auto' style={{ width: '78%' }}>From signature delights such as beef tartare and the best mashed potato in Paris, all the way to unique specialities such as thinly sliced Brittany artichokes with truffles.</div>
                         <div className="row text-center mb-2 mb-sm-0">
                             <div className="col-6">
-                                <div class="count_number" id="count1"></div>
+                                <div className="count_number" id="count1"></div>
                                 <span className='title_count'>Clients Every Day</span>
                             </div>
                             <div className="col-6">
-                                <div class="count_number" id="count2"></div>
+                                <div className="count_number" id="count2"></div>
                                 <span className='title_count '>Great Moments</span>
                             </div>
                         </div>

@@ -94,7 +94,7 @@ function HomeFooter() {
                                         </div>
                                         <div className="subscribe-form">
                                             <form action="#">
-                                                <input type="text" placeholder="Email Address" class="form-control"/>
+                                                <input type="text" placeholder="Email Address" className="form-control"/>
                                                 <button><FontAwesomeIcon className='footer_icons' icon="fab fa-telegram-plane" /></button>
                                             </form>
                                         </div>

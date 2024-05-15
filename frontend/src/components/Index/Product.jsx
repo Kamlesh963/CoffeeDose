@@ -131,7 +131,7 @@ function Product() {
                 {
                     category?.map((e, i) => (
                         <div className="row m-auto">
-                            <div className="col-12 ms-0 ps-0 ms-sm-1 ps-sm-1">
+                            <div className="col-12 ms-0 ps-0 ms-sm-1 ps-sm-1" key={i}>
                                 <div className="title_coffee">{e.name} </div>
                                 <div className="container-fluid px-1 px-sm-2 px-md-3 my-1">
                                     <Category data={e.CoffeeId}/>

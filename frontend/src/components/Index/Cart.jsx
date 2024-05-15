@@ -9,6 +9,7 @@ function Cart() {
   const [show, setShow] = useState(true);
   const [cartData, setCartData] = useState([]);
   const [total, setTotal] = useState(0);
+  let abc = JSON.parse(sessionStorage.getItem("islogin"));
 
   const cartUpdateEvent = new Event('cartUpdated');
   window.dispatchEvent(cartUpdateEvent);
@@ -127,9 +128,20 @@ function Cart() {
   };
   const scrollToTop = () => {
     window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-    })}
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+  const scrollToTop1 = () => {
+    let abc = JSON.parse(sessionStorage.getItem("islogin"))
+    if (abc.loginornot == "false") {
+      alert("First Login to CheckOut!")
+    }
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
 
   useEffect(() => {
     fetchCartData();
@@ -217,7 +229,7 @@ function Cart() {
                   </div>
                   <div className="row mt-4">
                     <div className="col-12 d-flex justify-content-center">
-                      <Link to='/onlineorder' onClick={scrollToTop} className="text-decoaraton-none" ><button className='btn chkbtn1'>Proceed To CheckOut</button></Link>
+                      <Link to={abc.loginornot == "true" ? '/onlineorder' : '/login'} onClick={scrollToTop1} className="text-decoaraton-none" ><button className='btn chkbtn1'>Proceed To CheckOut</button></Link>
                     </div>
                   </div>
                 </div>

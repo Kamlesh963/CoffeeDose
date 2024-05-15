@@ -7,6 +7,7 @@ import HomeReview from './HomeReview'
 import HomeFooter from './HomeFooter'
 import HomeTab from './HomeTab'
 import HomeTabMobile from './HomeTabMobile'
+import { useEffect } from 'react'
 
 function Home() {
   const tabsList = [
@@ -53,6 +54,23 @@ function Home() {
 
     // Add more tabs as needed
   ];
+  useEffect(() => {
+    if (sessionStorage.getItem("islogin")) {
+      let a = JSON.parse(sessionStorage.getItem('islogin'))
+      if (a.loginornot == "true") {
+        // do nothing
+      }
+      else {
+        let a = {
+          loginornot: "false",
+          value: ''
+        }
+        sessionStorage.setItem("islogin", JSON.stringify(a))
+      }
+    }
+
+  }, [])
+
   return (
     <>
       <HomeNavbar />
@@ -62,7 +80,7 @@ function Home() {
         <h1 className='discover'>Menu</h1>
       </div>
       <div className="container-fluid">
-        <div className="row"  id='menu'>
+        <div className="row" id='menu'>
           <div className="col-12 d-none d-lg-block">
             <HomeTab tabsList={tabsList} />
           </div>
